@@ -1,0 +1,8 @@
+C:\Users\Shaz0184\Desktop\ \Programmering H1\Rumfanget\Rumfanget\bin\Debug\Rumfanget.exe.config
+C:\Users\Shaz0184\Desktop\ \Programmering H1\Rumfanget\Rumfanget\bin\Debug\Rumfanget.exe
+C:\Users\Shaz0184\Desktop\ \Programmering H1\Rumfanget\Rumfanget\bin\Debug\Rumfanget.pdb
+C:\Users\Shaz0184\Desktop\ \Programmering H1\Rumfanget\Rumfanget\obj\Debug\Rumfanget.csproj.AssemblyReference.cache
+C:\Users\Shaz0184\Desktop\ \Programmering H1\Rumfanget\Rumfanget\obj\Debug\Rumfanget.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shaz0184\Desktop\ \Programmering H1\Rumfanget\Rumfanget\obj\Debug\Rumfanget.csproj.CoreCompileInputs.cache
+C:\Users\Shaz0184\Desktop\ \Programmering H1\Rumfanget\Rumfanget\obj\Debug\Rumfanget.exe
+C:\Users\Shaz0184\Desktop\ \Programmering H1\Rumfanget\Rumfanget\obj\Debug\Rumfanget.pdb

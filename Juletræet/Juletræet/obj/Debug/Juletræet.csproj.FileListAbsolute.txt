@@ -1,0 +1,8 @@
+C:\Users\Shaz0184\Desktop\ \Programmering H1\Juletræet\Juletræet\bin\Debug\Juletræet.exe.config
+C:\Users\Shaz0184\Desktop\ \Programmering H1\Juletræet\Juletræet\bin\Debug\Juletræet.exe
+C:\Users\Shaz0184\Desktop\ \Programmering H1\Juletræet\Juletræet\bin\Debug\Juletræet.pdb
+C:\Users\Shaz0184\Desktop\ \Programmering H1\Juletræet\Juletræet\obj\Debug\Juletræet.csproj.AssemblyReference.cache
+C:\Users\Shaz0184\Desktop\ \Programmering H1\Juletræet\Juletræet\obj\Debug\Juletræet.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shaz0184\Desktop\ \Programmering H1\Juletræet\Juletræet\obj\Debug\Juletræet.csproj.CoreCompileInputs.cache
+C:\Users\Shaz0184\Desktop\ \Programmering H1\Juletræet\Juletræet\obj\Debug\Juletræet.exe
+C:\Users\Shaz0184\Desktop\ \Programmering H1\Juletræet\Juletræet\obj\Debug\Juletræet.pdb

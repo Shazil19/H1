@@ -1,0 +1,8 @@
+C:\Users\Shaz0184\Desktop\ \Programmering H1\Held og Lotto\Held og Lotto\bin\Debug\Held og Lotto.exe.config
+C:\Users\Shaz0184\Desktop\ \Programmering H1\Held og Lotto\Held og Lotto\bin\Debug\Held og Lotto.exe
+C:\Users\Shaz0184\Desktop\ \Programmering H1\Held og Lotto\Held og Lotto\bin\Debug\Held og Lotto.pdb
+C:\Users\Shaz0184\Desktop\ \Programmering H1\Held og Lotto\Held og Lotto\obj\Debug\Held og Lotto.csproj.AssemblyReference.cache
+C:\Users\Shaz0184\Desktop\ \Programmering H1\Held og Lotto\Held og Lotto\obj\Debug\Held og Lotto.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shaz0184\Desktop\ \Programmering H1\Held og Lotto\Held og Lotto\obj\Debug\Held og Lotto.csproj.CoreCompileInputs.cache
+C:\Users\Shaz0184\Desktop\ \Programmering H1\Held og Lotto\Held og Lotto\obj\Debug\Held og Lotto.exe
+C:\Users\Shaz0184\Desktop\ \Programmering H1\Held og Lotto\Held og Lotto\obj\Debug\Held og Lotto.pdb

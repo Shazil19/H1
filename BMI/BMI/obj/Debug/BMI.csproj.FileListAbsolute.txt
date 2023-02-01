@@ -1,0 +1,8 @@
+C:\Users\Shaz0184\Desktop\ \Programmering H1\BMI\BMI\bin\Debug\BMI.exe.config
+C:\Users\Shaz0184\Desktop\ \Programmering H1\BMI\BMI\bin\Debug\BMI.exe
+C:\Users\Shaz0184\Desktop\ \Programmering H1\BMI\BMI\bin\Debug\BMI.pdb
+C:\Users\Shaz0184\Desktop\ \Programmering H1\BMI\BMI\obj\Debug\BMI.csproj.AssemblyReference.cache
+C:\Users\Shaz0184\Desktop\ \Programmering H1\BMI\BMI\obj\Debug\BMI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shaz0184\Desktop\ \Programmering H1\BMI\BMI\obj\Debug\BMI.csproj.CoreCompileInputs.cache
+C:\Users\Shaz0184\Desktop\ \Programmering H1\BMI\BMI\obj\Debug\BMI.exe
+C:\Users\Shaz0184\Desktop\ \Programmering H1\BMI\BMI\obj\Debug\BMI.pdb

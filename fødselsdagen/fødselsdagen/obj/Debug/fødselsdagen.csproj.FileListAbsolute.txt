@@ -1,0 +1,8 @@
+C:\Users\Shaz0184\Desktop\ \Programmering H1\fødselsdagen\fødselsdagen\bin\Debug\fødselsdagen.exe.config
+C:\Users\Shaz0184\Desktop\ \Programmering H1\fødselsdagen\fødselsdagen\bin\Debug\fødselsdagen.exe
+C:\Users\Shaz0184\Desktop\ \Programmering H1\fødselsdagen\fødselsdagen\bin\Debug\fødselsdagen.pdb
+C:\Users\Shaz0184\Desktop\ \Programmering H1\fødselsdagen\fødselsdagen\obj\Debug\fødselsdagen.csproj.AssemblyReference.cache
+C:\Users\Shaz0184\Desktop\ \Programmering H1\fødselsdagen\fødselsdagen\obj\Debug\fødselsdagen.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shaz0184\Desktop\ \Programmering H1\fødselsdagen\fødselsdagen\obj\Debug\fødselsdagen.csproj.CoreCompileInputs.cache
+C:\Users\Shaz0184\Desktop\ \Programmering H1\fødselsdagen\fødselsdagen\obj\Debug\fødselsdagen.exe
+C:\Users\Shaz0184\Desktop\ \Programmering H1\fødselsdagen\fødselsdagen\obj\Debug\fødselsdagen.pdb

@@ -1,0 +1,8 @@
+C:\Users\Shaz0184\Desktop\ \Programmering H1\The temperature calculator\The temperature calculator\bin\Debug\The temperature calculator.exe.config
+C:\Users\Shaz0184\Desktop\ \Programmering H1\The temperature calculator\The temperature calculator\bin\Debug\The temperature calculator.exe
+C:\Users\Shaz0184\Desktop\ \Programmering H1\The temperature calculator\The temperature calculator\bin\Debug\The temperature calculator.pdb
+C:\Users\Shaz0184\Desktop\ \Programmering H1\The temperature calculator\The temperature calculator\obj\Debug\The temperature calculator.csproj.AssemblyReference.cache
+C:\Users\Shaz0184\Desktop\ \Programmering H1\The temperature calculator\The temperature calculator\obj\Debug\The temperature calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shaz0184\Desktop\ \Programmering H1\The temperature calculator\The temperature calculator\obj\Debug\The temperature calculator.csproj.CoreCompileInputs.cache
+C:\Users\Shaz0184\Desktop\ \Programmering H1\The temperature calculator\The temperature calculator\obj\Debug\The temperature calculator.exe
+C:\Users\Shaz0184\Desktop\ \Programmering H1\The temperature calculator\The temperature calculator\obj\Debug\The temperature calculator.pdb

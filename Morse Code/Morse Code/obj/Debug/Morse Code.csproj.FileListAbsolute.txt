@@ -1,0 +1,8 @@
+C:\Users\Shaz0184\Desktop\ \Programmering H1\Morse Code\Morse Code\bin\Debug\Morse Code.exe.config
+C:\Users\Shaz0184\Desktop\ \Programmering H1\Morse Code\Morse Code\bin\Debug\Morse Code.exe
+C:\Users\Shaz0184\Desktop\ \Programmering H1\Morse Code\Morse Code\bin\Debug\Morse Code.pdb
+C:\Users\Shaz0184\Desktop\ \Programmering H1\Morse Code\Morse Code\obj\Debug\Morse Code.csproj.AssemblyReference.cache
+C:\Users\Shaz0184\Desktop\ \Programmering H1\Morse Code\Morse Code\obj\Debug\Morse Code.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shaz0184\Desktop\ \Programmering H1\Morse Code\Morse Code\obj\Debug\Morse Code.csproj.CoreCompileInputs.cache
+C:\Users\Shaz0184\Desktop\ \Programmering H1\Morse Code\Morse Code\obj\Debug\Morse Code.exe
+C:\Users\Shaz0184\Desktop\ \Programmering H1\Morse Code\Morse Code\obj\Debug\Morse Code.pdb

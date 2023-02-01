@@ -1,0 +1,8 @@
+C:\Users\Shaz0184\Desktop\ \Programmering H1\Vinos blancos\Vinos blancos\bin\Debug\Vinos blancos.exe.config
+C:\Users\Shaz0184\Desktop\ \Programmering H1\Vinos blancos\Vinos blancos\bin\Debug\Vinos blancos.exe
+C:\Users\Shaz0184\Desktop\ \Programmering H1\Vinos blancos\Vinos blancos\bin\Debug\Vinos blancos.pdb
+C:\Users\Shaz0184\Desktop\ \Programmering H1\Vinos blancos\Vinos blancos\obj\Debug\Vinos blancos.csproj.AssemblyReference.cache
+C:\Users\Shaz0184\Desktop\ \Programmering H1\Vinos blancos\Vinos blancos\obj\Debug\Vinos blancos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shaz0184\Desktop\ \Programmering H1\Vinos blancos\Vinos blancos\obj\Debug\Vinos blancos.csproj.CoreCompileInputs.cache
+C:\Users\Shaz0184\Desktop\ \Programmering H1\Vinos blancos\Vinos blancos\obj\Debug\Vinos blancos.exe
+C:\Users\Shaz0184\Desktop\ \Programmering H1\Vinos blancos\Vinos blancos\obj\Debug\Vinos blancos.pdb

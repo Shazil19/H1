@@ -1,0 +1,8 @@
+C:\Users\Shaz0184\Desktop\ \Programmering H1\Terning\Terning\bin\Debug\Terning.exe.config
+C:\Users\Shaz0184\Desktop\ \Programmering H1\Terning\Terning\bin\Debug\Terning.exe
+C:\Users\Shaz0184\Desktop\ \Programmering H1\Terning\Terning\bin\Debug\Terning.pdb
+C:\Users\Shaz0184\Desktop\ \Programmering H1\Terning\Terning\obj\Debug\Terning.csproj.AssemblyReference.cache
+C:\Users\Shaz0184\Desktop\ \Programmering H1\Terning\Terning\obj\Debug\Terning.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shaz0184\Desktop\ \Programmering H1\Terning\Terning\obj\Debug\Terning.csproj.CoreCompileInputs.cache
+C:\Users\Shaz0184\Desktop\ \Programmering H1\Terning\Terning\obj\Debug\Terning.exe
+C:\Users\Shaz0184\Desktop\ \Programmering H1\Terning\Terning\obj\Debug\Terning.pdb

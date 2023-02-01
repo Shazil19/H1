@@ -1,0 +1,8 @@
+C:\Users\Shaz0184\Desktop\ \Programmering H1\Mozart\Mozart\bin\Debug\Mozart.exe.config
+C:\Users\Shaz0184\Desktop\ \Programmering H1\Mozart\Mozart\bin\Debug\Mozart.exe
+C:\Users\Shaz0184\Desktop\ \Programmering H1\Mozart\Mozart\bin\Debug\Mozart.pdb
+C:\Users\Shaz0184\Desktop\ \Programmering H1\Mozart\Mozart\obj\Debug\Mozart.csproj.AssemblyReference.cache
+C:\Users\Shaz0184\Desktop\ \Programmering H1\Mozart\Mozart\obj\Debug\Mozart.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shaz0184\Desktop\ \Programmering H1\Mozart\Mozart\obj\Debug\Mozart.csproj.CoreCompileInputs.cache
+C:\Users\Shaz0184\Desktop\ \Programmering H1\Mozart\Mozart\obj\Debug\Mozart.exe
+C:\Users\Shaz0184\Desktop\ \Programmering H1\Mozart\Mozart\obj\Debug\Mozart.pdb

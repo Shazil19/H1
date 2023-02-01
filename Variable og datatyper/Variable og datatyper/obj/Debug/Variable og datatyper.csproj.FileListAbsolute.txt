@@ -1,0 +1,8 @@
+C:\Users\Shaz0184\Desktop\ \Programmering H1\Variable og datatyper\Variable og datatyper\bin\Debug\Variable og datatyper.exe.config
+C:\Users\Shaz0184\Desktop\ \Programmering H1\Variable og datatyper\Variable og datatyper\bin\Debug\Variable og datatyper.exe
+C:\Users\Shaz0184\Desktop\ \Programmering H1\Variable og datatyper\Variable og datatyper\bin\Debug\Variable og datatyper.pdb
+C:\Users\Shaz0184\Desktop\ \Programmering H1\Variable og datatyper\Variable og datatyper\obj\Debug\Variable og datatyper.csproj.AssemblyReference.cache
+C:\Users\Shaz0184\Desktop\ \Programmering H1\Variable og datatyper\Variable og datatyper\obj\Debug\Variable og datatyper.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shaz0184\Desktop\ \Programmering H1\Variable og datatyper\Variable og datatyper\obj\Debug\Variable og datatyper.csproj.CoreCompileInputs.cache
+C:\Users\Shaz0184\Desktop\ \Programmering H1\Variable og datatyper\Variable og datatyper\obj\Debug\Variable og datatyper.exe
+C:\Users\Shaz0184\Desktop\ \Programmering H1\Variable og datatyper\Variable og datatyper\obj\Debug\Variable og datatyper.pdb
