@@ -10,12 +10,44 @@ namespace Scrabble
     {
         static void Main(string[] args)
         {
-            Console.Write("Enter a word: \t");
-            string word = Console.ReadLine();
 
-            int wordPoints = CalculateScabble(word.ToUpper());
+            bool reply = true;
 
-            Console.WriteLine("Word Points: " + wordPoints);
+            while (reply)
+
+            {
+
+                Console.Write("\nEnter a word: \t");
+
+                string word = Console.ReadLine();
+
+                int wordPoints = CalculateScabble(word.ToUpper());
+
+                Console.WriteLine("\nWord Points: " + wordPoints + "\n");
+
+                Console.WriteLine("Do you want to play again (Y: Yes & N: No) : \n");
+
+                string UserReply = Console.ReadLine();
+
+                UserReply = UserReply.ToUpper();
+
+                if (UserReply == "Y")
+                {
+                    reply= true;
+                }
+
+                else if (UserReply == "N")
+                {
+                    reply= false;
+                }
+
+                else { reply= false; }
+
+            }
+
+            Console.WriteLine("\nThanks for playing\n");
+
+            Console.ReadKey();
         }
 
         public static int CalculateScabble(string word)

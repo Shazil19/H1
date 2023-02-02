@@ -6,3 +6,11 @@ C:\Users\Shaz0184\Desktop\ \Programmering H1\Scrabble\Scrabble\obj\Debug\Scrabb
 C:\Users\Shaz0184\Desktop\ \Programmering H1\Scrabble\Scrabble\obj\Debug\Scrabble.csproj.CoreCompileInputs.cache
 C:\Users\Shaz0184\Desktop\ \Programmering H1\Scrabble\Scrabble\obj\Debug\Scrabble.exe
 C:\Users\Shaz0184\Desktop\ \Programmering H1\Scrabble\Scrabble\obj\Debug\Scrabble.pdb
+C:\Users\Shaz0184\Desktop\ \Programmering H1\H-\Scrabble\Scrabble\bin\Debug\Scrabble.exe.config
+C:\Users\Shaz0184\Desktop\ \Programmering H1\H-\Scrabble\Scrabble\bin\Debug\Scrabble.exe
+C:\Users\Shaz0184\Desktop\ \Programmering H1\H-\Scrabble\Scrabble\bin\Debug\Scrabble.pdb
+C:\Users\Shaz0184\Desktop\ \Programmering H1\H-\Scrabble\Scrabble\obj\Debug\Scrabble.csproj.AssemblyReference.cache
+C:\Users\Shaz0184\Desktop\ \Programmering H1\H-\Scrabble\Scrabble\obj\Debug\Scrabble.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shaz0184\Desktop\ \Programmering H1\H-\Scrabble\Scrabble\obj\Debug\Scrabble.csproj.CoreCompileInputs.cache
+C:\Users\Shaz0184\Desktop\ \Programmering H1\H-\Scrabble\Scrabble\obj\Debug\Scrabble.exe
+C:\Users\Shaz0184\Desktop\ \Programmering H1\H-\Scrabble\Scrabble\obj\Debug\Scrabble.pdb

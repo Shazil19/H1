@@ -1,66 +1,117 @@
 ﻿using System;
-using System.Text.RegularExpressions;
+using System.Linq;
 
-namespace PasswordStrengthChecker
+namespace PasswordChecker
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Enter a password: \n");
+            while (true)
+            {
+                Console.ForegroundColor = ConsoleColor.White;
 
-            Console.WriteLine
-                ("but here are few things you have to make sure about your password: " +
-                 "1.\tPassword must be minimum 12 characters and max.  64" +
-                 "2.\tThere must be a mix of both UPPER and lowercase" +
-                 "3.\tThere must be a mix of characters and numbers" +
-                 "4.\tAnd there must be at least one special character\n");
+                Console.WriteLine("Enter password: ");
+                string password = Console.ReadLine();
 
-            Console.Write("Please type your Password");
+                string feedback = CheckPassword(password);
+                Console.WriteLine(feedback);
 
-            string password = Console.ReadLine();
+                if (feedback == "Green: The password is OK")
+                {
+                    Console.ForegroundColor = ConsoleColor.Green;
 
-            string result = CheckPasswordStrength(password);
-            Console.WriteLine(result);
+                    break;
+                }
+                else if (feedback == "Yellow: The password is OK but considered weak")
+                {
+                    Console.ForegroundColor = ConsoleColor.Yellow;
+
+                    Console.WriteLine("Do you want to try again? (y/n)");
+                    string response = Console.ReadLine();
+                    if (response == "n")
+                    {
+                        break;
+                    }
+                }
+
+                else if (feedback == "Red: The password is not strong enough")
+                {
+                    Console.ForegroundColor = ConsoleColor.Red;
+
+                    Console.WriteLine("Password does not meet the requirements, try again.");
+                }
+            }
         }
 
-        static string CheckPasswordStrength(string password)
+        public static string CheckPassword(string password)
         {
-            if (password.Length < 12 || password.Length > 64)
-                return "Red: The password must be between 12 and 64 characters.";
+            int minLength = 12;
+            int maxLength = 64;
+            int length = password.Length;
+            if (length < minLength)
+            {
+                return "Red: The password is not strong enough";
+            }
+            else if (length > maxLength)
+            {
+                return "Red: The password is way too strong ";
+            }
 
-            bool hasUpper = false, hasLower = false, hasDigit = false, hasSpecial = false;
+            bool hasUppercase = false;
+            bool hasLowercase = false;
+            bool hasNumber = false;
+            bool hasSpecial = false;
             foreach (char c in password)
             {
                 if (char.IsUpper(c))
-                    hasUpper = true;
+                {
+                    hasUppercase = true;
+                }
                 else if (char.IsLower(c))
-                    hasLower = true;
+                {
+                    hasLowercase = true;
+                }
                 else if (char.IsDigit(c))
-                    hasDigit = true;
-                else if (!char.IsWhiteSpace(c))
+                {
+                    hasNumber = true;
+                }
+                else
+                {
                     hasSpecial = true;
+                }
             }
 
-            if (!hasUpper || !hasLower || !hasDigit || !hasSpecial)
-                return "Red: The password must contain a mix of upper and lowercase letters, digits, and special characters.";
+            if (!hasUppercase || !hasLowercase || !hasNumber || !hasSpecial)
+            {
+                return "Red: The password is not strong enough";
+            }
 
-            if (IsSequence(password) || IsRepeat(password))
-                return "Yellow: The password is considered weak.";
+            bool isWeak = false;
+            for (int i = 0; i < length - 3; i++)
+            {
+                string sub = password.Substring(i, 4);
+                if (sub.All(c => char.IsLetter(c)) || sub.All(c => char.IsDigit(c)))
+                {
+                    isWeak = false;
+                }
 
-            return "Green: The password is strong.";
-        }
+                if (sub == "1234" || sub == "2345" || sub == "3456")
+                {
+                    isWeak = true;
+                }
 
-        static bool IsSequence(string password)
-        {
-            string pattern = @"(\d{4,})|([a-zA-Z]{4,})";
-            return Regex.IsMatch(password, pattern);
-        }
+            }
 
-        static bool IsRepeat(string password)
-        {
-            string pattern = @"(\d)\1{3,}|([a-zA-Z])\1{3,}";
-            return Regex.IsMatch(password, pattern);
+            if (isWeak)
+            {
+                return "Yellow: The password is OK but considered weak";
+            }
+
+            else
+            {
+                return "Green: The password is OK";
+            }
         }
     }
 }
