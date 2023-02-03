@@ -1,0 +1,8 @@
+C:\Users\Shaz0184\Desktop\ \Programmering H1\H-\The Josephus problem\The Josephus problem\bin\Debug\The Josephus problem.exe.config
+C:\Users\Shaz0184\Desktop\ \Programmering H1\H-\The Josephus problem\The Josephus problem\bin\Debug\The Josephus problem.exe
+C:\Users\Shaz0184\Desktop\ \Programmering H1\H-\The Josephus problem\The Josephus problem\bin\Debug\The Josephus problem.pdb
+C:\Users\Shaz0184\Desktop\ \Programmering H1\H-\The Josephus problem\The Josephus problem\obj\Debug\The Josephus problem.csproj.AssemblyReference.cache
+C:\Users\Shaz0184\Desktop\ \Programmering H1\H-\The Josephus problem\The Josephus problem\obj\Debug\The Josephus problem.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shaz0184\Desktop\ \Programmering H1\H-\The Josephus problem\The Josephus problem\obj\Debug\The Josephus problem.csproj.CoreCompileInputs.cache
+C:\Users\Shaz0184\Desktop\ \Programmering H1\H-\The Josephus problem\The Josephus problem\obj\Debug\The Josephus problem.exe
+C:\Users\Shaz0184\Desktop\ \Programmering H1\H-\The Josephus problem\The Josephus problem\obj\Debug\The Josephus problem.pdb
