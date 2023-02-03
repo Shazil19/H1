@@ -23,6 +23,7 @@ namespace PasswordChecker
 
                     break;
                 }
+
                 else if (feedback == "Yellow: The password is OK but considered weak")
                 {
                     Console.ForegroundColor = ConsoleColor.Yellow;

@@ -1,0 +1,8 @@
+C:\Users\Shaz0184\Desktop\ \Programmering H1\H-\world clock\world clock\bin\Debug\world clock.exe.config
+C:\Users\Shaz0184\Desktop\ \Programmering H1\H-\world clock\world clock\bin\Debug\world clock.exe
+C:\Users\Shaz0184\Desktop\ \Programmering H1\H-\world clock\world clock\bin\Debug\world clock.pdb
+C:\Users\Shaz0184\Desktop\ \Programmering H1\H-\world clock\world clock\obj\Debug\world clock.csproj.AssemblyReference.cache
+C:\Users\Shaz0184\Desktop\ \Programmering H1\H-\world clock\world clock\obj\Debug\world clock.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shaz0184\Desktop\ \Programmering H1\H-\world clock\world clock\obj\Debug\world clock.csproj.CoreCompileInputs.cache
+C:\Users\Shaz0184\Desktop\ \Programmering H1\H-\world clock\world clock\obj\Debug\world clock.exe
+C:\Users\Shaz0184\Desktop\ \Programmering H1\H-\world clock\world clock\obj\Debug\world clock.pdb
