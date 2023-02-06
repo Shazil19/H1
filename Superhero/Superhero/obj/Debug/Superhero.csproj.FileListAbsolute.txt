@@ -1,0 +1,3 @@
+C:\Users\Shaz0184\Desktop\ \Programmering H1\H-\Superhero\Superhero\obj\Debug\Superhero.csproj.AssemblyReference.cache
+C:\Users\Shaz0184\Desktop\ \Programmering H1\H-\Superhero\Superhero\obj\Debug\Superhero.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shaz0184\Desktop\ \Programmering H1\H-\Superhero\Superhero\obj\Debug\Superhero.csproj.CoreCompileInputs.cache

@@ -1,0 +1,8 @@
+C:\Users\Shaz0184\Desktop\ \Programmering H1\H-\Elon Mask Car\Elon Mask Car\bin\Debug\Elon Mask Car.exe.config
+C:\Users\Shaz0184\Desktop\ \Programmering H1\H-\Elon Mask Car\Elon Mask Car\bin\Debug\Elon Mask Car.exe
+C:\Users\Shaz0184\Desktop\ \Programmering H1\H-\Elon Mask Car\Elon Mask Car\bin\Debug\Elon Mask Car.pdb
+C:\Users\Shaz0184\Desktop\ \Programmering H1\H-\Elon Mask Car\Elon Mask Car\obj\Debug\Elon Mask Car.csproj.AssemblyReference.cache
+C:\Users\Shaz0184\Desktop\ \Programmering H1\H-\Elon Mask Car\Elon Mask Car\obj\Debug\Elon Mask Car.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shaz0184\Desktop\ \Programmering H1\H-\Elon Mask Car\Elon Mask Car\obj\Debug\Elon Mask Car.csproj.CoreCompileInputs.cache
+C:\Users\Shaz0184\Desktop\ \Programmering H1\H-\Elon Mask Car\Elon Mask Car\obj\Debug\Elon Mask Car.exe
+C:\Users\Shaz0184\Desktop\ \Programmering H1\H-\Elon Mask Car\Elon Mask Car\obj\Debug\Elon Mask Car.pdb
