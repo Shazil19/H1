@@ -1,0 +1,8 @@
+C:\Users\Shaz0184\Desktop\ \Programmering H1\H-\Robotterne kommer\Robotterne kommer\bin\Debug\Robotterne kommer.exe.config
+C:\Users\Shaz0184\Desktop\ \Programmering H1\H-\Robotterne kommer\Robotterne kommer\bin\Debug\Robotterne kommer.exe
+C:\Users\Shaz0184\Desktop\ \Programmering H1\H-\Robotterne kommer\Robotterne kommer\bin\Debug\Robotterne kommer.pdb
+C:\Users\Shaz0184\Desktop\ \Programmering H1\H-\Robotterne kommer\Robotterne kommer\obj\Debug\Robotterne kommer.csproj.AssemblyReference.cache
+C:\Users\Shaz0184\Desktop\ \Programmering H1\H-\Robotterne kommer\Robotterne kommer\obj\Debug\Robotterne kommer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shaz0184\Desktop\ \Programmering H1\H-\Robotterne kommer\Robotterne kommer\obj\Debug\Robotterne kommer.csproj.CoreCompileInputs.cache
+C:\Users\Shaz0184\Desktop\ \Programmering H1\H-\Robotterne kommer\Robotterne kommer\obj\Debug\Robotterne kommer.exe
+C:\Users\Shaz0184\Desktop\ \Programmering H1\H-\Robotterne kommer\Robotterne kommer\obj\Debug\Robotterne kommer.pdb

@@ -1,0 +1,8 @@
+C:\Users\Shaz0184\Desktop\ \Programmering H1\H-\Blackjack\Blackjack\bin\Debug\Blackjack.exe.config
+C:\Users\Shaz0184\Desktop\ \Programmering H1\H-\Blackjack\Blackjack\bin\Debug\Blackjack.exe
+C:\Users\Shaz0184\Desktop\ \Programmering H1\H-\Blackjack\Blackjack\bin\Debug\Blackjack.pdb
+C:\Users\Shaz0184\Desktop\ \Programmering H1\H-\Blackjack\Blackjack\obj\Debug\Blackjack.csproj.AssemblyReference.cache
+C:\Users\Shaz0184\Desktop\ \Programmering H1\H-\Blackjack\Blackjack\obj\Debug\Blackjack.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shaz0184\Desktop\ \Programmering H1\H-\Blackjack\Blackjack\obj\Debug\Blackjack.csproj.CoreCompileInputs.cache
+C:\Users\Shaz0184\Desktop\ \Programmering H1\H-\Blackjack\Blackjack\obj\Debug\Blackjack.exe
+C:\Users\Shaz0184\Desktop\ \Programmering H1\H-\Blackjack\Blackjack\obj\Debug\Blackjack.pdb

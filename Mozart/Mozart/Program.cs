@@ -34,46 +34,48 @@ namespace Mozart
                                 { 18, 45, 62, 38, 4, 27, 52, 94, 11, 92, 24, 86, 51, 60, 78, 31 } 
             };
 
-            Console.WriteLine("Menuets");
+            Console.WriteLine(trios[2,1]);
 
-            List<string> files = new List<string>();
+            //Console.WriteLine("Menuets");
 
-            for (int i = 0; i < 16; i++)
-            {
-                Random random = new Random();
+            //List<string> files = new List<string>();
 
-                //Task.Delay(200).Wait();
+            //for (int i = 0; i < 16; i++)
+            //{
+            //    Random random = new Random();
 
-                int dice = random.Next(2, 13);
+            //    //Task.Delay(200).Wait();
 
-                Console.WriteLine(i + 1 + "   " + menuets[dice - 2, i]);
+            //    int dice = random.Next(2, 13);
 
-                files.Add(@"C:\Users\Shaz0184\Desktop\ \Programmering H1\Wave\M" + menuets[dice - 2, i] + ".wav");
-            }
+            //    Console.WriteLine(i + 1 + "   " + menuets[dice - 2, i]);
 
-            Console.WriteLine("\nTrios\n");
+            //    files.Add(@"C:\Users\Shaz0184\Desktop\ \Programmering H1\Wave\M" + menuets[dice - 2, i] + ".wav");
+            //}
 
-            for (int i = 0; i < 16; i++)
+            //Console.WriteLine("\nTrios\n");
 
-            {
-                Random random = new Random();
+            //for (int i = 0; i < 16; i++)
 
-                //Task.Delay(200).Wait();
+            //{
+            //    Random random = new Random();
 
-                int dice = random.Next(1, 7);
+            //    //Task.Delay(200).Wait();
 
-                Console.WriteLine(i + 1 + "   " + trios[dice - 1, i]);
+            //    int dice = random.Next(1, 7);
 
-                files.Add(@"C:\Users\Shaz0184\Desktop\ \Programmering H1\Wave\T" + trios[dice - 1, i] + ".wav");
-            }
+            //    Console.WriteLine(i + 1 + "   " + trios[dice - 1, i]);
 
-            System.Media.SoundPlayer sp = new System.Media.SoundPlayer();
+            //    files.Add(@"C:\Users\Shaz0184\Desktop\ \Programmering H1\Wave\T" + trios[dice - 1, i] + ".wav");
+            //}
 
-            foreach (string musicelement in files)
-            {
-                sp.SoundLocation = musicelement; sp.Load();
-                sp.PlaySync();
-            }
+            //System.Media.SoundPlayer sp = new System.Media.SoundPlayer();
+
+            //foreach (string musicelement in files)
+            //{
+            //    sp.SoundLocation = musicelement; sp.Load();
+            //    sp.PlaySync();
+            //}
         }
     }
 }
