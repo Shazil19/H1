@@ -1,0 +1,8 @@
+C:\Users\Shaz0184\Desktop\ \Programmering H1\H-\Planets\Planets\bin\Debug\Planets.exe.config
+C:\Users\Shaz0184\Desktop\ \Programmering H1\H-\Planets\Planets\bin\Debug\Planets.exe
+C:\Users\Shaz0184\Desktop\ \Programmering H1\H-\Planets\Planets\bin\Debug\Planets.pdb
+C:\Users\Shaz0184\Desktop\ \Programmering H1\H-\Planets\Planets\obj\Debug\Planets.csproj.AssemblyReference.cache
+C:\Users\Shaz0184\Desktop\ \Programmering H1\H-\Planets\Planets\obj\Debug\Planets.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shaz0184\Desktop\ \Programmering H1\H-\Planets\Planets\obj\Debug\Planets.csproj.CoreCompileInputs.cache
+C:\Users\Shaz0184\Desktop\ \Programmering H1\H-\Planets\Planets\obj\Debug\Planets.exe
+C:\Users\Shaz0184\Desktop\ \Programmering H1\H-\Planets\Planets\obj\Debug\Planets.pdb
