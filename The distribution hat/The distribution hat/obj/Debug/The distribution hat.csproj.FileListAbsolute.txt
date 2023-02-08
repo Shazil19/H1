@@ -1,0 +1,8 @@
+C:\Users\Shaz0184\Desktop\ \Programmering H1\H-\The distribution hat\The distribution hat\bin\Debug\The distribution hat.exe.config
+C:\Users\Shaz0184\Desktop\ \Programmering H1\H-\The distribution hat\The distribution hat\bin\Debug\The distribution hat.exe
+C:\Users\Shaz0184\Desktop\ \Programmering H1\H-\The distribution hat\The distribution hat\bin\Debug\The distribution hat.pdb
+C:\Users\Shaz0184\Desktop\ \Programmering H1\H-\The distribution hat\The distribution hat\obj\Debug\The distribution hat.csproj.AssemblyReference.cache
+C:\Users\Shaz0184\Desktop\ \Programmering H1\H-\The distribution hat\The distribution hat\obj\Debug\The distribution hat.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shaz0184\Desktop\ \Programmering H1\H-\The distribution hat\The distribution hat\obj\Debug\The distribution hat.csproj.CoreCompileInputs.cache
+C:\Users\Shaz0184\Desktop\ \Programmering H1\H-\The distribution hat\The distribution hat\obj\Debug\The distribution hat.exe
+C:\Users\Shaz0184\Desktop\ \Programmering H1\H-\The distribution hat\The distribution hat\obj\Debug\The distribution hat.pdb

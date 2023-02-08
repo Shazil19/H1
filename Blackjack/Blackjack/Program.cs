@@ -16,6 +16,8 @@ namespace Blackjack
             
             byte deck_counter = 0;
 
+            byte dcounter = 0;
+
             //the program will start creaking  deck
 
             for (byte i = 0; i < suit.Length; i++)
@@ -29,42 +31,107 @@ namespace Blackjack
 
             //shuffling deck
 
+            
+
             deck = Suffle(deck);
 
-            while (true)
+            byte playercounter = 0;
+
+            byte computercounter = 0;
+
+            for (int i = 0; i < 2; i++)
             {
 
-                int yourfirstcard = 0;
-                int yoursecondcard = 0;
-                int computerfirstcard = 0;
+                playercounter += deck[dcounter].Value;
 
-                for (int i = 0; i < 3;i++)
-                {
-                    if (i == 0) { Console.WriteLine("this is your first card: " + deck[i].ToString()); yourfirstcard = int.Parse(deck[i].ToString()); }
-                    else if (i == 1) { Console.WriteLine("This is your second card: " + deck[i].ToString()); yoursecondcard = int.Parse(deck[i].ToString()); }
-                    else if (i == 2) { Console.WriteLine("this is my first card: " + deck[i].ToString()); computerfirstcard = int.Parse(deck[i].ToString()); }
-                }
+                Console.WriteLine(deck[dcounter].ToString() + "\n");
 
-                Console.WriteLine(yourfirstcard + yoursecondcard + computerfirstcard);
-
-                break;
-
+                dcounter++;
 
             }
 
-            Console.WriteLine("done");
+            Console.WriteLine("playercounter:\t" + playercounter + "\n") ;
 
-            //deck is shuffled
+            for (int i = 0; i < 2; i++)
+            {
 
-            //Console.WriteLine("Here are your two card: \n" + deck[0].ToString() +"\n"+ deck[1].ToString());
+                computercounter += deck[dcounter].Value;
 
-            //Console.WriteLine("here are my card: " + deck[2].ToString());
+                Console.WriteLine(deck[dcounter].ToString() + "\n");
 
+                dcounter++;
+
+            }
+
+            Console.WriteLine("computercounter:\t"+computercounter + "\n");
+
+            bool playerturn = true;
+
+            checker(playercounter, computercounter);
+
+            while (playercounter <= 21 && computercounter <= 21)
+            {
+                if (playerturn == true)
+                {
+
+                    Console.WriteLine("want a new card or leave it (Y/N)" + "\n");
+
+                    string replyofuser  = Console.ReadLine();
+
+                    Console.WriteLine("");
+
+                    replyofuser = replyofuser.ToUpper();
+
+                    if (replyofuser == "Y")
+                    {
+                        playercounter += deck[dcounter].Value;
+
+                        Console.WriteLine(deck[dcounter].ToString() + "\n");
+
+                        dcounter++;
+
+                        Console.WriteLine("playercounter:\t" + playercounter + "\n");
+
+                        checker(playercounter, computercounter);
+                    }
+                    else if (replyofuser == "N")
+                    {
+                        playerturn = false;
+                    }
+                }
+                else
+                {
+                    computercounter += deck[dcounter].Value;
+
+                    Console.WriteLine(deck[dcounter].ToString() + "\n");
+
+                    dcounter++;
+
+                    Console.WriteLine("computercounter:\n" + computercounter + "\n");
+
+                    playerturn = true;
+
+                    checker(playercounter, computercounter);
+                }
+            }
         }
-
+        public static void checker (byte playercounter , byte computercounter)
+        {
+            if (playercounter > 21)
+            {
+                Console.WriteLine("Your total points are over 21");
+                Console.WriteLine("\nYou have lost the game.");
+                Console.ReadKey();
+            }
+            else if ( computercounter > 21)
+            {
+                Console.WriteLine("Computer total points are over 21");
+                Console.WriteLine("\nYou have won the game." + "\n");
+                Console.ReadKey();
+            }
+        }
         public static Card[] Suffle(Card[] sorted)
         {
-
             Random random= new Random();
 
             for(int i = 0; i < 200; i++)
@@ -72,6 +139,7 @@ namespace Blackjack
                 // two int(index) to shuffle.
 
                 int index1 = random.Next(0,sorted.Length);
+                
                 int index2 = random.Next(0,sorted.Length);
 
                 // to save index1 value we put it in placeholder.
@@ -81,33 +149,10 @@ namespace Blackjack
                 // changing each other values.
 
                 sorted[index1] = sorted[index2];
+                
                 sorted[index2] = placeholder;
             }
-
             return sorted;
         }
     }
 }
-/*
- 
-the program is done creaking deck
-
-            Console.WriteLine(deck[10].Suit + " : \t" + deck[0].Value);
-
-            Console.WriteLine(deck[0].ToString());
-
-
-            shuffling deck
-
-            deck = Suffle(deck);
-
-            deck is shuffled
-
-            foreach (Card item in deck)
-            {
-                Console.WriteLine(item.Suit + " : \t" + item.Value);
-            }
-
-            Console.ReadKey();
- 
- */
