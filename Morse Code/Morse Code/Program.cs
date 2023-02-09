@@ -11,15 +11,12 @@ using System.Threading.Tasks;
 
 
 namespace Morse_Code
-
 {
 
     internal class Program
-
     {
 
         static void Main(string[] args)
-
         {
 
             Console.WriteLine("Enter text to convert to Morse code:");
@@ -28,27 +25,19 @@ namespace Morse_Code
 
             string output = "";
 
-
-
             foreach (char c in input)
-
             {
 
                 switch (c)
-
                 {
 
                     case 'a':
 
-                        Console.ForegroundColor = ConsoleColor.Red;
-
-                        output += ".- ";
+                        Console.WriteLine("add");
 
                         break;
 
                     case 'b':
-
-                        Console.ForegroundColor = ConsoleColor.Green;
 
                         output += "-... ";
 
@@ -56,15 +45,11 @@ namespace Morse_Code
 
                     case 'c':
 
-                        Console.ForegroundColor = ConsoleColor.Yellow;
-
                         output += "-.-. ";
 
                         break;
 
                     case 'd':
-
-                        Console.ForegroundColor = ConsoleColor.Black;
 
                         output += "-.. ";
 
@@ -72,15 +57,11 @@ namespace Morse_Code
 
                     case 'e':
 
-                        Console.ForegroundColor = ConsoleColor.DarkRed;
-
                         output += ". ";
 
                         break;
 
                     case 'f':
-
-                        Console.ForegroundColor = ConsoleColor.DarkGreen;
 
                         output += "..-. ";
 
@@ -88,15 +69,11 @@ namespace Morse_Code
 
                     case 'g':
 
-                        Console.ForegroundColor = ConsoleColor.DarkYellow;
-
                         output += "--. ";
 
                         break;
 
                     case 'h':
-
-                        Console.ForegroundColor = ConsoleColor.DarkBlue;
 
                         output += ".... ";
 
@@ -104,15 +81,11 @@ namespace Morse_Code
 
                     case 'i':
 
-                        Console.ForegroundColor = ConsoleColor.Gray;
-
                         output += ".. ";
 
                         break;
 
                     case 'j':
-
-                        Console.ForegroundColor = ConsoleColor.DarkGray;
 
                         output += ".--- ";
 
@@ -369,20 +342,10 @@ namespace Morse_Code
                         output += ".-.- ";
 
                         break;
-
                 }
-
             }
-
-
-
             Console.WriteLine(output);
-
-
-
         }
-
     }
-
 }
 

@@ -1,0 +1,8 @@
+C:\Users\Shaz0184\Desktop\ \Programmering H1\H-\A tour of the library\A tour of the library\bin\Debug\A tour of the library.exe.config
+C:\Users\Shaz0184\Desktop\ \Programmering H1\H-\A tour of the library\A tour of the library\bin\Debug\A tour of the library.exe
+C:\Users\Shaz0184\Desktop\ \Programmering H1\H-\A tour of the library\A tour of the library\bin\Debug\A tour of the library.pdb
+C:\Users\Shaz0184\Desktop\ \Programmering H1\H-\A tour of the library\A tour of the library\obj\Debug\A tour of the library.csproj.AssemblyReference.cache
+C:\Users\Shaz0184\Desktop\ \Programmering H1\H-\A tour of the library\A tour of the library\obj\Debug\A tour of the library.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shaz0184\Desktop\ \Programmering H1\H-\A tour of the library\A tour of the library\obj\Debug\A tour of the library.csproj.CoreCompileInputs.cache
+C:\Users\Shaz0184\Desktop\ \Programmering H1\H-\A tour of the library\A tour of the library\obj\Debug\A tour of the library.exe
+C:\Users\Shaz0184\Desktop\ \Programmering H1\H-\A tour of the library\A tour of the library\obj\Debug\A tour of the library.pdb
